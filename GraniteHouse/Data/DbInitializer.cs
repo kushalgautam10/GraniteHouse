@@ -38,7 +38,7 @@ namespace GraniteHouse.Data
             {
                 UserName = "admin@gmail.com",
                 Email = "admin@gmail.com",
-                Name = "Bhrugen Patel",
+                Name = "Kushal Gautam",
                 EmailConfirmed = true
             }, "Admin123*").GetAwaiter().GetResult();
 
